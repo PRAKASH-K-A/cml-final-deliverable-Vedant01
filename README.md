@@ -2,13 +2,13 @@
 
 **Name:** Vedant
 **Date:** April 7, 2026
-**Role:** G3-M1 Implementation
+**Role:** G3-M1 Implementation, Group Leader
 **Module:** Market Data File Poller
 
 ## 1. Introduction
-The Capital Markets Technology (CMT) lab project is a high-performance exchange and brokerage platform. The system facilitates real-time equity trading, options pricing, and risk management across multiple interconnected modules.
+The Capital Markets Technology (CMT) lab project is a high-performance exchange and brokerage platform. The system facilitates real-time equity trading, options pricing, and risk management across multiple interconnected modules. I worked on G3-M1 Market Data Poller and Team Management, supervising task division, control and milestone setting.
 
-The **G3-M1 module—Market Data File Poller**—serves as the primary data ingestion engine for the system. This module is responsible for reliably acquiring market data from external flat files, parsing complex quote structures, and distributing these updates efficiently through an internal event-driven architecture. By implementing smart delta detection and scheduled polling, the M1 module ensures that the system maintains a fresh and accurate view of the market while minimizing processing overhead.
+Technically I built the **G3-M1 module—Market Data File Poller**, which serves as the primary data ingestion engine for the system. This module is responsible for reliably acquiring market data from external flat files, parsing complex quote structures, and distributing these updates efficiently through an internal event-driven architecture. By implementing smart delta detection and scheduled polling, the M1 module ensures that the system maintains a fresh and accurate view of the market while minimizing processing overhead.
 
 ## 2. Objectives of My Module
 1.  **Scheduled Flat-File Ingestion**: Implement a robust reader capable of polling external CSV/flat files at configurable intervals (e.g., 1000ms) to ingest the latest market quotes.
