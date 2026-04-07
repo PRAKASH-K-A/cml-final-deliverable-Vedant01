@@ -1,8 +1,11 @@
 # CMT Lab Individual Contribution Report
 
-**Name:** Vedant
+**Name:** Vedant Agarwal(230958078)
+
 **Date:** April 7, 2026
-**Role:** G3-M1 Implementation, Group Leader
+
+**Role:** Group 2 Leader and G3-M1 Implementation
+
 **Module:** Market Data File Poller
 
 ## 1. Introduction
